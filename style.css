@@ -1,0 +1,24 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    margin-top: 40px;
+    ;
+}
+
+.carousel-item img {
+    max-height: 600px;
+}
+
+.carousel-caption {
+    padding-bottom: 150px;
+}
+
+.fa-brands {
+    width: 50px;
+    height: 50px;
+    color: white;
+    font-size: 28px;
+}
